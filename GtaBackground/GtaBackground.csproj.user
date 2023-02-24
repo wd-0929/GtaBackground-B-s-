@@ -16,7 +16,11 @@
     <WebStackScaffolding_IsPartialViewSelected>True</WebStackScaffolding_IsPartialViewSelected>
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
+<<<<<<< HEAD
     <NameOfLastUsedPublishProfile>E:\自己的项目\GtaBackground-B-s-\GtaBackground\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
+=======
+    <NameOfLastUsedPublishProfile>D:\自己的项目\后台管理项目\GtaBackground-B-s-\GtaBackground\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
+>>>>>>> 355739b19bc17bdd190ec5ab4e70ab2566e2d6df
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
